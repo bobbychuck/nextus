@@ -1,0 +1,14 @@
+{
+  "name": "nextus",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Local-first athlete platform primitives",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "check": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
